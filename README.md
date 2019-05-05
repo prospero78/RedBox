@@ -1,14 +1,16 @@
 # RedBox
-Collection components for BlackBox Component Builder (all batery included)
+Коллекция компонентов BlackBox Component Builder (все батарейки включены)
 
-## Base RedBox
-In base this pack have BlackBox Component Builder from [obertone.ru|obertone.ru]. This base in pack RedBox
-**not include!**
+## Основа RedBox
+В качестве основы используется BlackBox Component Builder с сайта [[obertone.ru]]. Базовую сборку для RedBox
+**качать отдельно!**
 
-## Configure
-You must correct link from true path with work RedBox (target folder and base folder its not equalent).
+## Конфигурирование
+YДля правильной работы сборки -- надо исправить пути к рабочему каталогу и к базовой сборке ББ.
 
-## Issues and queston
-Plis, scribe your's questom to e-mail or issues in this repositoriens.
+## Вопросы и траблы
+Пишите письма на мыло, либо в раздел Issues здесь (будет перенаправлено на почту).
+В сборке есть частично неработающие компоненты, по мере возможности -- будет исправляться.
+Список в файле RedBoxFixMe
 
 Good luck! Oberon forever!!))
